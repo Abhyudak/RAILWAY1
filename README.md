@@ -7,4 +7,4 @@
 Join My Telegram Channel [JeolMirrorz](https://telegram.dog/beta_botz)
  
  
- 
+ [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/M4yhUb)
